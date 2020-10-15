@@ -5,3 +5,6 @@ Assets/Scenes/SampleScene.unity.meta
 Assembly-CSharp.csproj
 *.sln
 obj/
+.vs/
+Assets/Script/TestScript.cs
+Assets/Script/TestScript.cs.meta
